@@ -1,5 +1,5 @@
-<h2 align="center">Desafio 01 🚀</h2>
-<h5 align="center">Ignite - <a href="https://rocketseat.com.br/" >Rocketseat</a> - Trilha Node js</h5>
+<h2 align="center">Ignite - Chapter 1 - Desafio 1 🚀</h2>
+<h5 align="center"><a href="https://rocketseat.com.br/" >Rocketseat</a> - Trilha Node js</h5>
 
 ## :memo: Descrição do desafio
 
@@ -15,6 +15,6 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *todos*).  S
 
 Tudo isso para cada usuário em específico (o `username` será passado pelo header). A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
-##### :rocket: Configurar aplicação
+### :rocket: Configurar aplicação
 
 Com as dependências instaladas execute `yarn dev` para levantar o servidor. Para rodar os testes, execute `yarn test`.
